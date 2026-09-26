@@ -217,7 +217,6 @@ export default function Navigation({
                         />
                       )}
                       {effectiveItems.map((item) => {
-                        const isActive = isDesktopItemActive(item);
                         const href = getDesktopItemHref(item);
 
                         return (
