@@ -1,0 +1,4 @@
+type = "publication"
+title = "논문"
+description = "연구 성과 목록입니다."
+source = "publications.bib"

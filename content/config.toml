@@ -1,0 +1,85 @@
+[site]
+title = "Yujin Kim"
+description = "M.S. in AI from GIST, working on LLM-based agents, game AI, and recommendation systems."
+favicon = "/favicon.svg"
+last_updated = "September 18, 2026"
+
+[author]
+name = "Yujin Kim"
+title = "M.S. in Artificial Intelligence"
+institution = "GIST"
+avatar = "/bio.png"
+
+[social]
+# Contact information (leave blank or delete to hide)
+
+email = "gaimuj32315@gmail.com"
+location = "Gwangju, South Korea"
+location_url = "https://www.google.com/maps/search/?api=1&query=Gwangju+Institute+of+Science+and+Technology"
+location_details = [
+  "Gwangju Institute of Science and Technology (GIST),",
+  "123 Cheomdan-gwagiro, Buk-gu, Gwangju 61005, South Korea"
+]
+google_scholar = "https://scholar.google.com/citations?user=3KRjx9sAAAAJ&hl=ko"
+orcid = ""
+github = "https://github.com/eidus"
+linkedin = "https://www.linkedin.com/in/yujin-kim-44608a310"
+
+[features]
+# Show a like button on the about page
+enable_likes = true
+
+# Display all subpages on a single page
+enable_one_page_mode = false
+
+[i18n]
+enabled = false
+locales = ["ko", "en"]
+default_locale = "en"
+# "auto" means the locale will be determined by the browser's language setting, "fixed" means the locale will be fixed to the default locale (but can be switched still, if you want to disable, set "enable=false")
+mode = "auto"
+fixed_locale = "en"
+# If true, PRISM will remember user's language preference in browser's localStorage
+persist = true
+# Show a language switcher on the top right corner
+switcher = true
+
+[i18n.labels]
+ko = "한국어"
+en = "English"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+# [[navigation]]
+# title = "Teaching"
+# type = "page"
+# target = "teaching"
+# href = "/teaching"
+
+[[navigation]]
+title = "Awards"
+type = "page"
+target = "awards"
+href = "/awards"
+
+# [[navigation]]
+# title = "Services"
+# type = "page"
+# target = "services"
+# href = "/services"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"

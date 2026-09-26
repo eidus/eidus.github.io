@@ -1,0 +1,29 @@
+type = "about"
+title = "소개"
+
+[profile]
+research_interests = [
+  "LLM-based Agents",
+  "Game AI",
+  "Cold-start Recommendation",
+  "Multimodal State Recognition"
+]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "소개"
+
+[[sections]]
+id = "featured_publications"
+type = "publications"
+title = "주요 논문"
+filter = "selected"
+limit = 5
+
+[[sections]]
+id = "news"
+type = "list"
+title = "소식"
+source = "news.toml"

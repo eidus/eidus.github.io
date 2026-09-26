@@ -1,0 +1,5 @@
+I hold an M.S. in Artificial Intelligence from the AI Graduate School, Gwangju Institute of Science and Technology (GIST), where I was advised by [Prof. Kyung-Joong Kim](https://cilab.gist.ac.kr/hp/people/) at the [Cognition & Intelligence Lab](https://cilab.gist.ac.kr/hp/). My thesis, *BanPickMaker: Meta-Aware Cold-Start Champion Recommendation for Evolving League of Legends Drafts*, develops inductive recommendation methods for constantly evolving item catalogs.
+
+Prior to GIST, I earned a B.S. in Software (Major in Big Data) and a B.A. in Business Administration from Hallym University, graduating with a GPA of 4.37/4.5 (Rank 1/89).
+
+My research interests span [LLM-based agents](#tag:LLM-based%20Agents), [cold-start & constrained recommendation](#tag:Cold-start%20Recommendation), [multimodal state recognition](#tag:Multimodal%20State%20Recognition), and [game AI](#tag:Game%20AI). I enjoy building systems that combine structured search and learned models — recent projects include an LLM agent that delegates stochastic search to an expectimax-based recommender, and large-scale self-play data pipelines for competitive game agents.

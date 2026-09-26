@@ -1,0 +1,40 @@
+[site]
+title = "김유진"
+description = "GIST에서 인공지능 석사 학위를 취득했으며, LLM 기반 에이전트, 게임 AI, 추천 시스템을 연구합니다."
+last_updated = "2026년 9월 18일"
+
+[author]
+name = "김유진"
+title = "인공지능 석사"
+institution = "GIST"
+
+[social]
+location = "대한민국 광주"
+location_details = [
+  "광주과학기술원(GIST),",
+  "대한민국 광주광역시 북구 첨단과기로 123, 61005"
+]
+
+[[navigation]]
+title = "소개"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "논문"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "수상"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"

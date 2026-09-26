@@ -1,0 +1,54 @@
+type = "card"
+title = "수상"
+description = "그동안 받은 대회 수상 내역과 영예입니다."
+
+[[items]]
+title = "1st Place, Track 1: Lightweights"
+subtitle = "Orak Game Agent Challenge 2025 (hosted by KRAFTON AI)"
+date = "2026.02"
+link = "https://www.aicrowd.com/challenges/orak-game-agent-challenge-2025"
+content = "동일한 파라미터 예산 안에서 LLM 에이전트가 다양한 비디오 게임을 플레이하는 능력을 평가하는 벤치마크 대회입니다."
+
+[[items]]
+title = "2nd Place, Track 1: Battling (Gen 1)"
+subtitle = "PokeAgent Challenge (Team 4thLesson)"
+date = "2025.11"
+link = "https://pokeagentchallenge.com/"
+content = "NeurIPS 2025에서 열린 대회로, 경쟁형 포켓몬 배틀과 장기 계획이 필요한 RPG 스피드런에서 AI 에이전트의 역량을 평가합니다."
+
+[[items]]
+title = "President's Award"
+subtitle = "Hallym University"
+date = "2024.02"
+content = "우수한 학업 성취를 인정받아 수여됨 (졸업 성적 89명 중 1위, 평점 4.37/4.5)."
+
+[[items]]
+title = "Outstanding Paper Award"
+subtitle = "ASK 2024"
+date = "2024"
+content = "\"A Multi-Decoder DNN Model for High Accuracy Segmentation using Pseudo Depth-Map and Efficient Training Strategy\" 논문으로 수상."
+
+[[items]]
+title = "4th Prize"
+subtitle = "SW-Centered Universities Joint AI Competition (satellite image building segmentation)"
+date = "2023.08"
+link = "https://dacon.io/competitions/official/236092/overview/description"
+content = "위성 영상 기반 건물 분할(segmentation)을 주제로 한 경진대회입니다."
+
+[[items]]
+title = "Excellent Presentation Prize"
+subtitle = "Gangwon SW Festival"
+date = "2023.08"
+content = "연구/프로젝트 발표에 대해 수여됨."
+
+[[items]]
+title = "3rd Prize"
+subtitle = "Software Capstone Design, Hallym University"
+date = "2023.06"
+content = "소프트웨어 캡스톤 디자인 경진대회 수상."
+
+[[items]]
+title = "Outstanding Paper Award"
+subtitle = "CISC-W'23"
+date = "2023"
+content = "\"Implementation of Framework for Machine Learning-Based Network Intrusion Detection and Situational Analysis Solutions\" 논문으로 수상."

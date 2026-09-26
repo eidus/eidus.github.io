@@ -1,0 +1,4 @@
+type = "card"
+title = "교육"
+description = "강의하거나 조교로 참여했던 과목들입니다."
+items = []

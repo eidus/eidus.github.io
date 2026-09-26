@@ -1,0 +1,54 @@
+type = "card"
+title = "Awards"
+description = "Competition awards and honors I have received."
+
+[[items]]
+title = "1st Place, Track 1: Lightweights"
+subtitle = "Orak Game Agent Challenge 2025 (hosted by KRAFTON AI)"
+date = "2026.02"
+link = "https://www.aicrowd.com/challenges/orak-game-agent-challenge-2025"
+content = "A benchmark competition evaluating LLM agents playing diverse video games under a shared parameter budget."
+
+[[items]]
+title = "2nd Place, Track 1: Battling (Gen 1)"
+subtitle = "PokeAgent Challenge (Team 4thLesson)"
+date = "2025.11"
+link = "https://pokeagentchallenge.com/"
+content = "A NeurIPS 2025 competition evaluating AI agents on competitive Pokémon battling and long-horizon RPG speedrunning."
+
+[[items]]
+title = "President's Award"
+subtitle = "Hallym University"
+date = "2024.02"
+content = "Awarded for outstanding academic achievement (graduated Rank 1 / 89, GPA 4.37 / 4.5)."
+
+[[items]]
+title = "Outstanding Paper Award"
+subtitle = "ASK 2024"
+date = "2024"
+content = "For \"A Multi-Decoder DNN Model for High Accuracy Segmentation using Pseudo Depth-Map and Efficient Training Strategy.\""
+
+[[items]]
+title = "4th Prize"
+subtitle = "SW-Centered Universities Joint AI Competition (satellite image building segmentation)"
+date = "2023.08"
+link = "https://dacon.io/competitions/official/236092/overview/description"
+content = "Competition on satellite image building segmentation."
+
+[[items]]
+title = "Excellent Presentation Prize"
+subtitle = "Gangwon SW Festival"
+date = "2023.08"
+content = "Awarded for presentation of research/project work."
+
+[[items]]
+title = "3rd Prize"
+subtitle = "Software Capstone Design, Hallym University"
+date = "2023.06"
+content = "Capstone design competition award."
+
+[[items]]
+title = "Outstanding Paper Award"
+subtitle = "CISC-W'23"
+date = "2023"
+content = "For \"Implementation of Framework for Machine Learning-Based Network Intrusion Detection and Situational Analysis Solutions.\""
